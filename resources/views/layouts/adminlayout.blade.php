@@ -41,14 +41,14 @@
             <li class="{{ set_active('Admin')}}">
                 <a href="{{ url('/Admin') }}"><i class="fa fa-th-large"></i> <span class="nav-label">Home </span></a>
             </li>
-            <li>
+{{--             <li>
                 <a href="#"><i class="fa fa-bar-chart-o"></i> <span class="nav-label">Demo</span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
                     <li class="active"><a href="graph_flot.html">How to create an Event</a></li>
                     <li><a href="graph_morris.html">How to create an Event</a></li>
                     <li><a href="graph_rickshaw.html">How to create an Event</a></li>
                 </ul>
-            </li>
+            </li> --}}
         </ul>
 
     </div>
