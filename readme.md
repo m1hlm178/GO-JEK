@@ -12,6 +12,8 @@ Aplikasi ini Dibuat untuk memasuki tahap interview Go-Jek dengan memmbuat aplika
 
 1. Clone my git source to your server or pc.
 2. Root Localhost for visitor public and localhost/login is for Admin Panel.
+3. Default Username And Password For Admin Panel Is
+4. Username : m1 pass : 1
 
 ## Contributing
 
