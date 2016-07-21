@@ -10,7 +10,7 @@ Aplikasi ini Dibuat untuk memasuki tahap interview Go-Jek dengan memmbuat aplika
 
 ## Tutorial Use
 
-1. Clone out source to your server or pc.
+1. Clone my git source to your server or pc.
 2. Root Localhost for visitor public and localhost/login is for Admin Panel.
 
 ## Contributing
